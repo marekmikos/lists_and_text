@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+.decoration {
+  text-decoration: underline;
+  color: pink;
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
